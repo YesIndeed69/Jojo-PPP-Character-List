@@ -1,6 +1,6 @@
 window.units = [
-    [ "Jonathan", "Yellow", 1 ],
-    [ "V!Jonathan", "Yellow","Non Limited", 2 ],
+    [ "Jonathan", "Yellow", "Non limited", 1 ],
+    [ "V!Jonathan", "Yellow", "Non Limited", 2 ],
     [ "Monkey D. Luffy Gum-Gum Bazooka", "STR", "Fighter", 4, 7, 6, 2, 35, 136167, 404, 227, 39, 975, 522, 105, 1 ],
     [ "Monkey D. Luffy Gear 2", "STR", [ "Fighter", "Free Spirit" ], 5, 15, 8, 3, 99, 3000000, 902, 473, 74, 1772, 1313, 227, 1 ],
     [ "Roronoa Zoro", "DEX", "Slasher", 3, 4, 6, 0, 20, 26184, 126, 75, 15, 488, 239, 56, 0.7 ],
