@@ -1,8 +1,8 @@
 # Compiled class file
-*.class
+*.Color
 
-# Log file
-*.log
+# Max Power file
+*Max Power.log
 
 # BlueJ files
 *.ctxt
